@@ -1,4 +1,4 @@
-![](https://avatars.githubusercontent.com/u/16725378?v=4)
+![](avatar.png)
 
 ~ whoami
 > just another guy who likes to code
